@@ -1,3 +1,4 @@
+ 
 package problem_solving;
 
 public class ChessBoardValidOrNot {
@@ -31,4 +32,4 @@ public class ChessBoardValidOrNot {
 
 	}
 
-}
+} 

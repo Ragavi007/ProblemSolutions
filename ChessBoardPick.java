@@ -1,3 +1,4 @@
+ 
 package problem_solving;
 
 public class ChessBoardPick {
@@ -17,4 +18,4 @@ public class ChessBoardPick {
 
 	}
 
-}
+} 

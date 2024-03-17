@@ -1,3 +1,4 @@
+ 
 package problem_solving;
 
 public class ChessBoardPrint {
@@ -16,4 +17,4 @@ public class ChessBoardPrint {
 
 	}
 
-}
+} 
